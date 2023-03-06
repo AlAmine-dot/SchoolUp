@@ -18,7 +18,8 @@ Elle dispose de quatre interfaces :
 - 👩🏾‍💻 CaissierUI : Permet aux caissiers, en plus de pouvoir effectuer les mêmes action qu'un secrétaire, de gérer les paiements des élèves et consulter leur état
 de paiement journalier.
 
-![image](https://user-images.githubusercontent.com/82777228/223203306-ae3e83b5-b2de-4c06-822b-0d2e80e7d42a.png)
+![image](https://user-images.githubusercontent.com/82777228/223207209-eb118bd1-55a1-4634-9295-e4e8730d3c53.png)
+
 
 - AdminUI : Permet aux administrateurs de gérer les comptes utilisateurs, consulter l'état de paiement journalier des caissiers, gérer les modules d'une classe, annuler les actions des utilisateurs et attributer des certificats de scolarité aux élèves.
 
