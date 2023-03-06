@@ -43,3 +43,7 @@ de paiement journalier.
 - Java
 - JavaFX / CSS
 - MySQL
+
+# ⚠️ Attention :
+
+- Ce projet est le fruit d'un travail à trois. Il m'est donc impossible d'upload tout le code source
